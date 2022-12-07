@@ -1,3 +1,4 @@
+package ma.supmti.ihm.filefinder;
 /*
  * $Id: SwingWorker.java,v 1.1.1.1 2004/06/16 01:43:39 davidson1 Exp $
  *
